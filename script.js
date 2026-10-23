@@ -9,7 +9,7 @@ const MAIN_PAGE_APIS = [
  * @description - Adds event listener to the "MoviesApp" logo.
  * When logo is clicked, the user will be redirected to the main page.
  */
-const logo = document.querySelector(".logo");
+const logo = document.querySelector(".site-logo");
 logo.addEventListener("click", () => {
   goToTop();
   window.location.reload();
