@@ -55,7 +55,7 @@ header {
   -moz-background-clip: text;
   -fox-background-clip: text;
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: white;
 }
 /******* Search Container *******/
 .search-container {
