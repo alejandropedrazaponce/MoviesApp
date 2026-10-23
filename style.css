@@ -42,7 +42,7 @@ header {
 .logo {
   background: #800080;
   background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9);
-  background: --webkit-linear-gradient(right, #f64f59, #c471ed, #12c2e9);
+  background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9);
   background-clip: text;
   background-size: 100%;
   cursor: pointer;
