@@ -1,6 +1,6 @@
 # Movies App
 
-[Click here](https://alejandro-pedrazaaa.github.io/MoviesApp/) to visit and interact with this application.
+[Click here](https://alejandropedrazaponce.github.io/MoviesApp/) to visit and interact with this application.
 
 ## Description
 
