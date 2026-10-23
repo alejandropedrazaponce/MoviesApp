@@ -630,22 +630,15 @@ footer.active {
     display: flex;
   }
   .logo {
-    background: #800080;
-    background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9);
-    background: --webkit-linear-gradient(right, #f64f59, #c471ed, #12c2e9);
-    background-clip: text;
-    background-size: 100%;
+    background: none;
+    color: white;
+    -webkit-text-fill-color: white;
     cursor: pointer;
     font-family: inherit;
     font-size: 4.5rem;
     font-weight: 600;
     letter-spacing: 5px;
     margin-left: 5%;
-    overflow: hidden;
-    -moz-background-clip: text;
-    -fox-background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
   }
   /******* Search Container *******/
   .search-container {
